@@ -1,0 +1,19 @@
+name: John Akers
+description: "prax·is: practice, as distinguished from theory"
+meta_description: "John Akers' blog"
+
+markdown: kramdown
+highlighter: rouge
+logo: false
+paginate: 15
+baseurl: ""
+domain_name: "http://yourblog-domain.com"
+google_analytics: "UA-XXXXXXXX-X"
+plugins: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url: ""
+author: "John Akers"
+
+# Disqus config
+disqus-shortname: ""

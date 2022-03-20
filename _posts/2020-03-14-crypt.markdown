@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Crypt"
+date:   2020-03-14 12:10:00
+categories: Code Games
+excerpt: 'A small dungeon builder'
+---
+
+<!-- commenting this out to use later -->
+<!-- {% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %} -->
+
+[Crypt](https://johnakers.net/crypt) is a small weekend hack. It procedurally generates tiny dungeons.
+
+<!-- has to be a better way -->
+<img src="../../../../../assets/images/crypt.png" />
+
+The way I figured it was, create a floor grid of rooms. Each room has a type, which may or may not have
+enemies, or rewards. Additionally, each side of the room may have a door. If it does, connect it to
+the other room. Its written in hacky JavaScript, and desperately needs a refactor. It has a downloadable
+JSON file as well, though it does need a small rework.
+
+I am trying to, slowly, get back into hobby game development (as well as writing), and the idea of
+a small little sci-fi or medieval rogue-like, with random levels, is a fun idea.
+
+You can see the source code [here](https://github.com/johnakers/crypt).
+
+<!-- [crypt]:    https://johnakers.net/crypt
+[crypt-gh]: https://github.com/johnakers/crypt -->
