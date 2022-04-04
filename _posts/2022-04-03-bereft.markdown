@@ -27,4 +27,5 @@ a sci-fi universe, is something I feel I can achieve.
 This past night, I've been using Unity's SNAPs and made a brief attempt at the Asset Swap Tool, but it
 looks like there's a bug in that and admittedly didn't feel like debugging on it, right now.
 
-Additionally, this game is something I can blog about more, and my Unity learnings.
+Additionally, this game is something I can blog about more, and my Unity learnings. I have a working
+Notion doc, that if you feel so inclined to view, you can check it out [here](https://johnakers.notion.site/Bereft-9f567656c9a94ef49b012984a2eceb00).
