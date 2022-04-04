@@ -17,7 +17,7 @@ print_hi('Tom')
 
 [Crypt](https://johnakers.net/crypt) is a small weekend hack. It procedurally generates tiny dungeons.
 
-![Crypt example](/assets/images/crypt.png)
+![Crypt example](/praxis/assets/images/crypt.png)
 
 The way I figured it was, create a floor grid of rooms. Each room has a type, which may or may not have
 enemies, or rewards. Additionally, each side of the room may have a door. If it does, connect it to

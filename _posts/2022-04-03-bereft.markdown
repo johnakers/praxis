@@ -16,8 +16,8 @@ Being a former game reviewer, and now software engineer, I know this project wil
 one could almost consider it more of an experience I'm working on, rather than a game, as it will be
 quite short in nature, but hopefully dense with content.
 
-<!-- has to be a better way -->
-![Working Joe, from Alien: Isolation](/assets/images/alien-isolation-bot.jpg)
+<!-- in dev, don't preface with /praxies -->
+![Working Joe, from Alien: Isolation](/praxis/assets/images/alien-isolation-bot.jpg)
 
 I'm a fan of the Dishonored, and BioShock series. In conjunction, the aesthetic of the Alien universe
 is one I'm fond of as well. I most definitely want to keep the scope of this project small, but taking
